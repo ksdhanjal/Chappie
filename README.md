@@ -4,10 +4,10 @@ Chappie is a question answering app which enables users to ask question about vi
 
 ## Working
 
-- The app lets user ask a question either by voice (with the help of Google's TextToSpeech) or by manually typing it. 
-- Then it sends the question to the server via an HTTP request.
-- Server then processes it and returns the answer in JSON.
-- App then parses it and shows it on the screen and plays it back  .
+- The app lets user ask a question either by voice (with the help of Google's TextToSpeech) or by manually typing it
+- Then it sends the question to the server via an HTTP request
+- Server then processes it and returns the answer in JSON
+- App then parses it and shows it on the screen and plays it back
 
 
 ## Acknowledgements
