@@ -1,4 +1,4 @@
-# Chappie
+# Chappie : Android application for Q/A
 
 Chappie is a question answering app which enables users to ask question about virtually anything (related to the data that has been fed to the machine learning model)
 
