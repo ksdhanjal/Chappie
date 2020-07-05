@@ -9,6 +9,9 @@ Chappie is a question answering app which enables users to ask question about vi
 - Server then processes it and returns the answer in JSON
 - App then parses it and shows it on the screen and plays it back
 
+## Screenshot
+
+![Chappie](https://github.com/ksdhanjal/Chappie/blob/master/screenshots/1.jpg)
 
 ## Acknowledgements
 
